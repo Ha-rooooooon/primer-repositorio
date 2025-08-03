@@ -1,16 +1,14 @@
-# flutterapp
+# primer-repositorio
+**This is gonna be a simple login authorization app
 
-A new Flutter project.
+-->app will be created using the likes of Flutter 
+-->in doing so ill get more proficient in Dart
+-->widgets , form inputs and navigations will be   used
 
-## Getting Started
+**Features:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+->username and password input fields
+->basic login validation
+->error handling
+->navigation to home screen after successful login
+ 
